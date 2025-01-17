@@ -1,0 +1,46 @@
+
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.said{
+   background-color: aqua; 
+   text-align: center;
+   border-radius: 20px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.html{
+    background-color: gold;
+    color: black;
+}
+
+.red{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.yil{
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+}
+
+div{
+    text-align: center;
+}
+
+.a1{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
